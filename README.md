@@ -1,4 +1,4 @@
-# Laravel 8 Bootstrap 支架
+# Laravel 9 Bootstrap 支架
 
 Bootstrap 是一種開源的前端開發框架，提供響應式及行動裝置網頁設計的框架，包含 HTML、CSS 及 JS 等內容，它預先做好一套網站的基礎建設，讓開發者能在該框架的基礎上進行開發，不需要再去煩惱瑣碎的設定。
 
@@ -20,7 +20,6 @@ $ php artisan key:generate
 ```sh
 $ php artisan migrate
 ```
-
 - 在瀏覽器中輸入已定義的路由 URL 來訪問，例如：http://127.0.0.1:8000。
 - 你可以經由 `/register` 來進行註冊。
 - 完成註冊後，可以經由 `/login` 來進行登入。
@@ -28,11 +27,11 @@ $ php artisan migrate
 ----
 
 ## 畫面截圖
-![](https://i.imgur.com/G4S4cpt.png)
+![](https://i.imgur.com/ZRyWyAe.png)
 > 建立新的帳號
 
-![](https://i.imgur.com/89qgvGq.png)
+![](https://i.imgur.com/sSDcQiS.png)
 > 使用現有的帳號登入
 
-![](https://i.imgur.com/TO39BpA.png)
+![](https://i.imgur.com/9rhAJEW.png)
 > 登入成功後進入預設歡迎頁面
