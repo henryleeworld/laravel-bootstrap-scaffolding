@@ -1,4 +1,4 @@
-# Laravel 9 Bootstrap 支架
+# Laravel 10 Bootstrap 支架
 
 Bootstrap 是一種開源的前端開發框架，提供響應式及行動裝置網頁設計的框架，包含 HTML、CSS 及 JS 等內容，它預先做好一套網站的基礎建設，讓開發者能在該框架的基礎上進行開發，不需要再去煩惱瑣碎的設定。
 
