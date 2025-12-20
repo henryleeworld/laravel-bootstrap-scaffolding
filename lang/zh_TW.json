@@ -1,5 +1,6 @@
 {
     "A new verification link has been sent to the email address you provided during registration.": "新的驗證連結已傳送到您註冊時提供的電子郵件地址。",
+    "All rights reserved.": "版權所有。",
     "Already registered?": "已註冊？",
     "Close": "關閉",
     "Confirm": "確認",
@@ -23,7 +24,7 @@
     "Name": "姓名",
     "Password": "密碼",
     "Profile": "個人資料",
-    "Regards": "致敬",
+    "Regards,": "致敬,",
     "Register": "註冊",
     "Remember me": "記住我",
     "Resend Verification Email": "重新傳送驗證電子郵件",
