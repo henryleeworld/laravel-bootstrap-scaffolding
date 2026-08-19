@@ -1,4 +1,4 @@
-# Laravel 12 Bootstrap 支架
+# Laravel 13 Bootstrap 支架
 
 Bootstrap 是一種開源的前端開發框架，提供響應式及行動裝置網頁設計的框架，包含 HTML、CSS 及 JS 等內容，它預先做好一套網站的基礎建設，讓開發者能在該框架的基礎上進行開發，不需要再去煩惱瑣碎的設定。
 
@@ -35,11 +35,11 @@ $ npm run build
 ----
 
 ## 畫面截圖
-![](https://i.imgur.com/aM73NeN.png)
+![](https://i.imgur.com/wQXpRzZ.png)
 > 建立新的帳號
 
-![](https://i.imgur.com/QpzCtan.png)
+![](https://i.imgur.com/3lbY3Ns.png)
 > 使用現有的帳號登入
 
-![](https://i.imgur.com/pWFPo4H.png)
+![](https://i.imgur.com/zDAXzfc.png)
 > 登入成功後進入預設歡迎頁面
